@@ -13,6 +13,7 @@
 		8E46B8042977F14F00BAE461 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E46B8022977F14F00BAE461 /* Main.storyboard */; };
 		8E46B8062977F15000BAE461 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E46B8052977F15000BAE461 /* Assets.xcassets */; };
 		8E46B8092977F15000BAE461 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E46B8072977F15000BAE461 /* LaunchScreen.storyboard */; };
+		8EEA5809297A9D8A0065082B /* readySound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8EEA5808297A9D8A0065082B /* readySound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8E46B8052977F15000BAE461 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E46B8082977F15000BAE461 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8E46B80A2977F15000BAE461 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EEA5808297A9D8A0065082B /* readySound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = readySound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				8E46B8022977F14F00BAE461 /* Main.storyboard */,
 				8E46B8052977F15000BAE461 /* Assets.xcassets */,
 				8E46B8072977F15000BAE461 /* LaunchScreen.storyboard */,
+				8EEA5808297A9D8A0065082B /* readySound.mp3 */,
 				8E46B80A2977F15000BAE461 /* Info.plist */,
 			);
 			path = "Egg Timer";
@@ -127,6 +130,7 @@
 			files = (
 				8E46B8092977F15000BAE461 /* LaunchScreen.storyboard in Resources */,
 				8E46B8062977F15000BAE461 /* Assets.xcassets in Resources */,
+				8EEA5809297A9D8A0065082B /* readySound.mp3 in Resources */,
 				8E46B8042977F14F00BAE461 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
